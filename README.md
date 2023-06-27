@@ -12,3 +12,7 @@ Our findings reveal how temperature drives fungal compositional turnover (beta d
 and phylogenetic diversity, linking them with regional species richness (gamma diversity). 
 Our work integrates fungi into the principles of global biodiversity distribution 
 and presents detailed maps for biodiversity conservation and modeling of global ecological processes.  
+
+## Geographic distribution of study sites
+
+![Sampling map](assets/Sampling_map.webp)  
