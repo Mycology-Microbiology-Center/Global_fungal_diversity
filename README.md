@@ -16,3 +16,11 @@ and presents detailed maps for biodiversity conservation and modeling of global 
 ## Geographic distribution of study sites
 
 ![Sampling map](assets/Sampling_map.webp)  
+
+The map, presented in Goode's homolosine projection, 
+shows the exact locations where the research was conducted, each marked by a dot. 
+The different colors of the dots signify various types of land cover. 
+Inset photos, captured by 
+[Sten Anslan](https://sisu.ut.ee/mmc/members?lang=en) and 
+[Sergei Põlme](https://sisu.ut.ee/mmc/members?lang=en), 
+provide visual representation of some of these sampling sites.  
