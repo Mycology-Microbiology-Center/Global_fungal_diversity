@@ -7,9 +7,9 @@ from natural and human-altered ecosystems across all continents,
 we illustrate the distributions and drivers of different levels of 
 taxonomic and phylogenetic diversity of fungi and their ecological groups. 
 We show the impact of precipitation and temperature interactions on fungal 
-local species richness (alpha diversity) across different climates. 
-Our findings reveal how temperature drives fungal compositional turnover (beta diversity) 
-and phylogenetic diversity, linking them with regional species richness (gamma diversity). 
+local species richness (_alpha diversity_) across different climates. 
+Our findings reveal how temperature drives fungal compositional turnover (_beta diversity_) 
+and phylogenetic diversity, linking them with regional species richness (_gamma diversity_). 
 Our work integrates fungi into the principles of global biodiversity distribution 
 and presents detailed maps for biodiversity conservation and modeling of global ecological processes.  
 
@@ -41,10 +41,10 @@ and **GlobalWetlands** (Bahram et al., 2022) (85 samples).
 ## Data availability
 
 All the data used in this study are openly accessible and have been deposited at: 
-- **Zenodo** (large georeferenced raster and shapefiles with biodiversity estimates) [**DOI:10.5281/zenodo.8013448**](https://zenodo.org/record/8013448)  
+- **Zenodo** (large georeferenced rasters and shapefiles with biodiversity estimates) [**DOI:10.5281/zenodo.8013448**](https://zenodo.org/record/8013448)  
 - **PlutoF** biodiversity management platform (the curated DNA sequences and species occurrence data): 
   [https://plutof.ut.ee/](https://plutof.ut.ee/)  
-- the European Nucleotide Archive (**ENA**) at EMBL-EBI under accession number **PRJEB63550** (raw sequencing data)  
+- The European Nucleotide Archive (**ENA**) at EMBL-EBI under accession number **PRJEB63550** (raw sequencing data)  
 
 ## MMC
 
