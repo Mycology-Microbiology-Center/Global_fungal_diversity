@@ -21,8 +21,8 @@ The map, presented in Goode's homolosine projection,
 shows the exact locations where the research was conducted, each marked by a dot. 
 The different colors of the dots signify various types of land cover. 
 Inset photos, captured by 
-[Sten Anslan](https://sisu.ut.ee/mmc/members?lang=en) and 
-[Sergei Põlme](https://sisu.ut.ee/mmc/members?lang=en), 
+[Dr. Sten Anslan](https://sisu.ut.ee/mmc/members?lang=en) and 
+[Dr. Sergei Põlme](https://sisu.ut.ee/mmc/members?lang=en), 
 provide visual representation of some of these sampling sites.  
 
 The Global Soil Mycobiome consortium (**GSMc**) dataset (Tedersoo et al., 2021) 
