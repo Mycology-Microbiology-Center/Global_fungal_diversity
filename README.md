@@ -38,6 +38,14 @@ we used the data from five additional global surveys applying comparable samplin
 **GlobalAM** (199 samples), assessing arbuscular mycorrhizal fungal diversity worldwide (Davison et al. 2021); 
 and **GlobalWetlands** (Bahram et al., 2022) (85 samples).  
 
+## Data availability
+
+All the data used in this study are openly accessible and have been deposited at: 
+- **Zenodo** (large georeferenced raster and shapefiles with biodiversity estimates) [**DOI:10.5281/zenodo.8013448**](https://zenodo.org/record/8013448)  
+- **PlutoF** biodiversity management platform (the curated DNA sequences and species occurrence data): 
+  [https://plutof.ut.ee/](https://plutof.ut.ee/)  
+- the European Nucleotide Archive (**ENA**) at EMBL-EBI under accession number **PRJEB63550** (raw sequencing data)  
+
 ## MMC
 
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/84702676?s=400&u=4f1a1f58692dce82adab933bd93419971c8ac14f&v=4">
