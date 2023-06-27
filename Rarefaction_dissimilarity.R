@@ -53,7 +53,7 @@ load_pckg <- function(pkg = "raster"){
 
 load_pckg("vegan")
 load_pckg("phyloseq")
-# load_pckg("metagMisc")
+load_pckg("metagMisc")
 load_pckg("betapart")
 load_pckg("plyr")
 
@@ -91,15 +91,10 @@ DISM <- list()
 ## Incidence-based pair-wise dissimilarities
 cat("..Sorenson\n")
 DISM$sor <- try( beta.pair(PA, index.family = "sorensen") )
-# cat("..Jaccard\n")
-# DISM$jac <- try( beta.pair(PA, index.family = "jaccard") )
 
 ## Abundance-based pair-wise dissimilarities
 cat("..Bray\n")
 DISM$brc <- try( beta.pair.abund(OTUTAB, index.family = "bray") )
-# cat("..Ruzicka\n")
-# DISM$rzk <- try( beta.pair.abund(OTUTAB, index.family = "ruzicka") )
-
 
 cat("Exporting results..\n")
 
