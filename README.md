@@ -24,3 +24,16 @@ Inset photos, captured by
 [Sten Anslan](https://sisu.ut.ee/mmc/members?lang=en) and 
 [Sergei Põlme](https://sisu.ut.ee/mmc/members?lang=en), 
 provide visual representation of some of these sampling sites.  
+
+The Global Soil Mycobiome consortium (**GSMc**) dataset (Tedersoo et al., 2021) 
+was the basis for the analysis of taxonomic and phylogenetic alpha, beta, and gamma diversities conducted. 
+This dataset comprises fungal sequence data from >125,000 samples at 3200 study sites 
+collected from all continents in 2010-2019 following strict sampling and analytical protocols. 
+In short, 40 soil cores (5 cm in diameter and 5 cm depth) were collected from a 
+2500 m<sup>2</sup> area at each study site and were pooled. 
+For gamma diversity and validation of alpha diversity analyses, 
+we used the data from five additional global surveys applying comparable sampling protocols: 
+**BIODESERT** (249 samples) exploring dryland ecosystem response to grazing pressure and climate change (Maestre et al. 2022); 
+**MUSGONET** and **CLIMIFUN** (290 samples) (Guerra et al. 2022); 
+**GlobalAM** (199 samples), assessing arbuscular mycorrhizal fungal diversity worldwide (Davison et al. 2021); 
+and **GlobalWetlands** (Bahram et al., 2022) (85 samples).  
