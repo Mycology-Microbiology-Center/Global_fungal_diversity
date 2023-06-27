@@ -37,3 +37,9 @@ we used the data from five additional global surveys applying comparable samplin
 **MUSGONET** and **CLIMIFUN** (290 samples) (Guerra et al. 2022); 
 **GlobalAM** (199 samples), assessing arbuscular mycorrhizal fungal diversity worldwide (Davison et al. 2021); 
 and **GlobalWetlands** (Bahram et al., 2022) (85 samples).  
+
+## MMC
+
+<img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/84702676?s=400&u=4f1a1f58692dce82adab933bd93419971c8ac14f&v=4">
+
+Mycology and Microbiology Center (MMC): [https://sisu.ut.ee/mmc/](https://sisu.ut.ee/mmc/home-1?lang=en)  
