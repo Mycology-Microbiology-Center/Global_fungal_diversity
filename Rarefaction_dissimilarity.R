@@ -1,5 +1,4 @@
-#!/usr/bin/Rscript
-##  #!/gpfs/space/home/kupagme/miniconda3/bin/Rscript
+#!/usr/bin/env Rscript
 
 ## Usage:
 # ./Rarefaction_dissimilarity.R \
