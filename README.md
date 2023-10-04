@@ -25,7 +25,7 @@ Inset photos, captured by
 [Dr. Sergei Põlme](https://sisu.ut.ee/mmc/members?lang=en), 
 provide visual representation of some of these sampling sites.  
 
-The Global Soil Mycobiome consortium (**GSMc**) dataset (Tedersoo et al., 2021) 
+The Global Soil Mycobiome consortium ([**GSMc**](https://GSMc-fungi.github.io/)) dataset (Tedersoo et al., 2021) 
 was the basis for the analysis of taxonomic and phylogenetic alpha, beta, and gamma diversities conducted. 
 This dataset comprises fungal sequence data from >125,000 samples at 3200 study sites 
 collected from all continents in 2010-2019 following strict sampling and analytical protocols. 
