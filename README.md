@@ -46,6 +46,11 @@ All the data used in this study are openly accessible and have been deposited at
   [https://plutof.ut.ee/](https://plutof.ut.ee/)  
 - The European Nucleotide Archive (**ENA**) at EMBL-EBI under accession number **PRJEB63550** (raw sequencing data)  
 
+## Citation
+
+Mikryukov V, Dulya O, Zizka A, Bahram M, Hagh-Doust N, Anslan S, Prylutskyi O, Delgado-Baquerizo M, Maestre FT, Nilsson H, … Tedersoo L (2023). Connecting the multiple dimensions of global soil fungal diversity. *Science Advances*, 9(48), eadj8016. [DOI:10.1126/sciadv.adj8016](https://www.science.org/doi/10.1126/sciadv.adj8016)
+
+
 ## MMC
 
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/84702676?s=400&u=4f1a1f58692dce82adab933bd93419971c8ac14f&v=4">
